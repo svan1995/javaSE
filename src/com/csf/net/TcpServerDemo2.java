@@ -1,8 +1,6 @@
 package com.csf.net;
 
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
@@ -11,26 +9,25 @@ public class TcpServerDemo2 {
         ServerSocket serverSocket = null;
         Socket socket = null;
         InputStream is = null;
-        ByteArrayOutputStream baos = null;
+        FileOutputStream fos = null;
         try {
             System.out.println("server is running");
             serverSocket = new ServerSocket(9998);
             socket = serverSocket.accept();
             is = socket.getInputStream();
 
-            baos = new ByteArrayOutputStream();
+            fos = new FileOutputStream(new File("receive.png"));
             byte[] buffer = new byte[1024];
             int len;
             while ((len=is.read(buffer)) != -1){
-                baos.write(buffer, 0, len);
-
+                fos.write(buffer, 0, len);
             }
-            System.out.println(baos.toString());
+
         } catch (IOException e) {
             e.printStackTrace();
         }finally {
             try {
-                baos.close();
+                fos.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }

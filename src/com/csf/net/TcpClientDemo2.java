@@ -14,7 +14,7 @@ public class TcpClientDemo2 {
         FileInputStream fis = null;
         try {
             InetAddress ip = InetAddress.getByName("127.0.0.1");
-            int port = 9999;
+            int port = 9998;
             socket = new Socket(ip, port);
             os = socket.getOutputStream();
             fis = new FileInputStream(new File("千反田.png"));
