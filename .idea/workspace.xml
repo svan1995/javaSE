@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33ca8117-2ff9-4546-bcc4-b9e7991bf17e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/csf/function/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/csf/function/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/csf/function/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/csf/function/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/csf/function/Demo5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bHt30id7mTKyRYesV9OfP82JxA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.csf.net" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CSF\IdeaProjects\javaSE\src\com\lib" />
+      <recent name="C:\Users\CSF\IdeaProjects\javaSE\lib" />
+      <recent name="C:\Users\CSF\IdeaProjects\javaSE\src\com\csf\annotation" />
+      <recent name="C:\Users\CSF\IdeaProjects\javaSE" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo5">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.csf.function.Demo1" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csf.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.csf.function.Demo2" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csf.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.csf.function.Demo3" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csf.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.csf.function.Demo4" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csf.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.csf.function.Demo5" />
+      <module name="javaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csf.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.Demo4" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33ca8117-2ff9-4546-bcc4-b9e7991bf17e" name="Default Changelist" comment="" />
+      <created>1588300643768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588300643768</updated>
+      <workItem from="1588300645783" duration="6295000" />
+      <workItem from="1588319125078" duration="2676000" />
+      <workItem from="1588384888241" duration="100000" />
+      <workItem from="1588385001033" duration="8330000" />
+      <workItem from="1588469015798" duration="12500000" />
+      <workItem from="1588829149205" duration="4226000" />
+      <workItem from="1588833391973" duration="106000" />
+      <workItem from="1588995052417" duration="112000" />
+      <workItem from="1600757717523" duration="2224000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1588300916215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588300916215</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add TCP demo">
+      <created>1588319156331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588319156331</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add TCP upload">
+      <created>1588319666666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588319666666</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add annotation demo">
+      <created>1588386778746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588386778746</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add reflection demo">
+      <created>1588404279176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588404279176</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add thread demo">
+      <created>1588492736358</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588492736358</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add syn demo">
+      <created>1588833436390</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588833436390</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <MESSAGE value="add TCP demo" />
+    <MESSAGE value="add TCP upload" />
+    <MESSAGE value="add annotation demo" />
+    <MESSAGE value="add reflection demo" />
+    <MESSAGE value="add thread demo" />
+    <MESSAGE value="add syn demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add syn demo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1506" height="245" key="GridCell.Tab.0.bottom" timestamp="1600761021175">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="245" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1600761021175" />
+    <state width="1506" height="245" key="GridCell.Tab.0.center" timestamp="1600761021175">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="245" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1600761021175" />
+    <state width="1506" height="245" key="GridCell.Tab.0.left" timestamp="1600761021175">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="245" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1600761021175" />
+    <state width="1506" height="245" key="GridCell.Tab.0.right" timestamp="1600761021175">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="245" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1600761021175" />
+  </component>
+</project>
